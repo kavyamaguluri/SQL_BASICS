@@ -1,1 +1,1 @@
-# SQL_BASICS
+# SQL_BASICS practice
